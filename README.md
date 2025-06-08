@@ -18,7 +18,7 @@ Before building the dashboard, exploratory data analysis was performed using **G
 - Defining key metrics and segments to visualize later in Power BI  
 
 📁 You can view the full EDA notebook here:  
-[🔍 View EDA Notebook on GitHub](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/BankEDA.ipynb)
+[🔍 View EDA Notebook on GitHub](https://github.com/debarundey/Banking-Analytics-Dashboard/blob/main/BankEDA.ipynb)
 
 
 ## 🧹 Data Cleaning & Feature Engineering
@@ -71,14 +71,14 @@ The Power BI report includes the following views:
 ## 📸 Dashboard Previews
 
 ### 🔹 Home Page
-![Home Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/home.png)
+![Home Dashboard](https://github.com/debarundey/Banking-Analytics-Dashboard/blob/main/images/home.png)
 
 ### 🔹 Loan Analysis
-![Loan Analysis](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/loan_analysis.png)
+![Loan Analysis](https://github.com/debarundey/Banking-Analytics-Dashboard/blob/main/images/home.png)
 
 ### 🔹 Deposit Analysis
-![Deposit Analysis](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/deposit_analysis.png)
+![Deposit Analysis](https://github.com/debarundey/Banking-Analytics-Dashboard/blob/main/images/deposit_analysis.png)
 
 ### 🔹 Summary View
-![Summary Dashboard](https://github.com/Swarnali-Saha/Banking-Analysis-dashboard/blob/main/images/Summary.png)
+![Summary Dashboard](https://github.com/debarundey/Banking-Analytics-Dashboard/blob/main/images/Summary.png)
 
